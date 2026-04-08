@@ -27,7 +27,8 @@ The dataset is organized into 10 sheets:
 - Variable names and coding schemes are consistent across sheets.  
 - Due to the size of the dataset, it is provided as a separate file rather than embedded in the main manuscript.  
 - For H2 sheets, **dark green highlighted rows** indicate the final studies identified as initial recognition.  
-- In **H2 - EPI BLACK**, an additional row is highlighted in **light green**. This represents the first study that satisfied inclusion criteria; however, it did not meet the citation threshold required to be considered a landmark study.  
+- In **H2 - EPI BLACK**, an additional row is highlighted in **light green**. This represents the first study that satisfied inclusion criteria; however, it did not meet the citation threshold required to be considered a landmark study.
+- For H2 EPI sheets, any study flagged as ‘False’ for a given criterion was excluded from consideration for subsequent criteria.
 
 ## Related Study
 
